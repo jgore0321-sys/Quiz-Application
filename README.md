@@ -17,9 +17,9 @@ A simple Python-based Quiz Application that allows users to answer multiple-choi
 
 ## Screenshot
 
-![Quiz Application Output]-
-     ------(Output Screenshot-01.png)
-     ------(Output Screenshot-02.png)
+- [Output Screenshot 01](./Output%20Screenshot-01.png)
+- [Output Screenshot 02](./Output%20Screenshot-02.png)
+
 ## How to Run
 
 1. Clone the repository:
